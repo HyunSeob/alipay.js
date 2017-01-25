@@ -1,0 +1,16 @@
+{
+  "name": "alipay.js",
+  "version": "0.0.1",
+  "description": "Minimal SDK for Alipay (Not official)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Alipay",
+    "alipay",
+    "payment"
+  ],
+  "author": "HyunSeob <sytte1017@gmail.com> (https://hyunseob.github.io)",
+  "license": "MIT"
+}
