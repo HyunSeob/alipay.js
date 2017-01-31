@@ -6,11 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyunSeob/alipay.js.git"
+  },
   "keywords": [
     "Alipay",
     "alipay",
     "payment"
   ],
+  "bugs": {
+    "url": "https://github.com/HyunSeob/alipay.js/issues"
+  },
+  "homepage": "https://github.com/HyunSeob/alipay.js#readme",
   "author": "HyunSeob <sytte1017@gmail.com> (https://hyunseob.github.io)",
   "license": "MIT"
 }
