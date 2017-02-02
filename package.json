@@ -4,7 +4,8 @@
   "description": "Minimal SDK for Alipay (Not official)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/Alipay.js",
+    "prepublish": "npm test"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
   },
   "homepage": "https://github.com/HyunSeob/alipay.js#readme",
   "author": "HyunSeob <sytte1017@gmail.com> (https://hyunseob.github.io)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "alipay.js": "^0.0.1"
+  }
 }
